@@ -8,7 +8,7 @@ if ag == "s":
     q = int(input("Ingrese el numero de unidades:  "))
     ag = 600 * q
 else:
-    ag = 0
+    ag = 0   
 tt += ag
 
 az = input("Desea llevar azucar? s/n?: ")
