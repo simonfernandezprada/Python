@@ -9,4 +9,4 @@ elif r == 3:
 elif r == 4:
     e == 1
 else:
-    print("Escribe un número aweonao")
+    print("Escribe un número porfa")
